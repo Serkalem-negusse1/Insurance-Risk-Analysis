@@ -5,5 +5,5 @@ This project involves analyzing historical insurance claims to identify low-risk
 
 # Setup
 # 1. Clone this repository
-git clone https://github.com/https://github.com/Serkalem-negusse1/Alpha_Predictive-Modeling.git
+git clone https://github.com/https://github.com/Serkalem-negusse1/Insurance-Risk-Analysis.git
 cd Alpha_Predictive-Modeling
